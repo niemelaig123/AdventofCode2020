@@ -1,5 +1,4 @@
-def main(): #<-- Don't change this line!
-    #Write your code below. It must be indented!
+def main():
     fileSelected = "Files\day2.txt"
     openMode = "r"
     myFile = open(fileSelected, openMode)
